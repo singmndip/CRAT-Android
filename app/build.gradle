@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.crat.kidsstreaming'
+    namespace 'com.cratt.kidsstreaming'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.crat.kidsstreaming'
+        applicationId 'com.cratt.kidsstreaming'
         minSdk 24
         targetSdk 35
         versionCode 1
