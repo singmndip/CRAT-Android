@@ -3,9 +3,9 @@ const app = document.querySelector('#app');
 app.innerHTML = `
   <main class="shell">
     <header class="hero">
-      <div class="badge">★ CRAT</div>
+      <div class="badge">★ CRATT</div>
       <h1>Happy videos for curious kids</h1>
-      <p>Search YouTube through a simple filtered mode, then watch inside CRAT.</p>
+      <p>Search YouTube through a simple filtered mode, then watch inside CRATT.</p>
     </header>
 
     <section class="panel search-panel">
@@ -26,7 +26,7 @@ app.innerHTML = `
       <div class="player-wrap">
         <iframe
           id="player"
-          title="CRAT video player"
+          title="CRATT video player"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen
           referrerpolicy="strict-origin-when-cross-origin"
@@ -61,7 +61,7 @@ app.innerHTML = `
     </section>
 
     <footer>
-      <p>CRAT uses a basic keyword/title filter. A parent or guardian should still supervise viewing.</p>
+      <p>CRATT uses a basic keyword/title filter. A parent or guardian should still supervise viewing.</p>
     </footer>
   </main>
 `;
